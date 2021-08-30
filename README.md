@@ -19,3 +19,22 @@ Hierarquia entre componentes (Pai/filhos)
 Componentes podem ter filhos que são componentes
 
 Como integrar o Javascript no meio do seu JSX<p>
+
+<h1>Modulo 3</h1>
+
+<p>O que aprendi nessmo modulo:
+
+Como integrar CSS dentro da sua aplicação REact
+
+Diferenças do class e className
+
+Propriedade "key" dos componentes
+
+Padrão de nomenclatura do CSS
+
+Tratando o conflito de nomes
+
+Ponto de entrada dos módulos
+
+Organização do projeto
+</p>
