@@ -46,3 +46,13 @@ Associando referências através do bind
 Atributo props dos componentes React
 Passando propriedades para elementos filhos
 </p>
+
+<h1>Módulo 5</h1>
+
+<p>O que aprendi nesse módulo:
+Pensando sobre como transmitir informações entre objetos
+Fluxo de atualização do sistema
+Para que serve o state
+Como atribuir o state de maneira segura
+Atualizando a visualização da tela dinamicamente
+</p>
