@@ -17,7 +17,7 @@ Limpamos o projeto para não deixar elementos que não serão utilizados mais pr
 </p>
 
 <h1>Modulo 2</h1>
-<p>O que aprendemi nesse modulo:
+<p>O que aprendi nesse modulo:
 Como podemos criar class components
 Entendendo como o JSX renderiza objetos
 Hierarquia entre componentes (Pai/filhos)
